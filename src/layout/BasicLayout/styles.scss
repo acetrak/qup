@@ -1,0 +1,19 @@
+.v-navigation-drawer{
+  ::-webkit-scrollbar-track-piece {
+    background-color: transparent;
+  }
+  ::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+    background-color: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: transparent;
+  }
+}
+
+.active-menu{
+  background: #303F9F;
+  color: #fff;
+}

@@ -1,0 +1,95 @@
+{
+    "cc3dc208-9f49-4dc3-bbc9-a4af63691f38": {
+        "uuid": "cc3dc208-9f49-4dc3-bbc9-a4af63691f38",
+        "componentType": "radio",
+        "label": "单选题",
+        "title": "单选题",
+        "options": [
+            {
+                "id": "59ad431c-0b12-47a3-a24f-2dacf83c8778",
+                "value": "选项1",
+                "relevance": []
+            },
+            {
+                "id": "d6d51139-a13e-4286-89b2-b4e4bbe0e4d2",
+                "value": "选项2",
+                "relevance": []
+            },
+            {
+                "id": "1ae5e554-1740-4707-a06f-9e1df7c166dc",
+                "value": "选项3",
+                "relevance": []
+            }
+        ],
+        "request": false,
+        "userInput": null
+    },
+    "b99e41cb-710b-4f79-b530-32f9f407388c": {
+        "uuid": "b99e41cb-710b-4f79-b530-32f9f407388c",
+        "componentType": "multipleRadio",
+        "label": "多选题",
+        "title": "多选题",
+        "options": [
+            {
+                "id": "6a79674a-3db2-441d-aaaa-6108616f5383",
+                "value": "选项1"
+            },
+            {
+                "id": "12071a89-5428-4f72-8010-e0acf98faea3",
+                "value": "选项2"
+            },
+            {
+                "id": "e039ed2d-32da-47b8-a965-fb92432edb86",
+                "value": "选项3"
+            }
+        ],
+        "request": false,
+        "userInput": []
+    },
+    "892519b6-bb70-4f53-9ea3-770d8d17973e": {
+        "uuid": "892519b6-bb70-4f53-9ea3-770d8d17973e",
+        "componentType": "answer",
+        "label": "问答题",
+        "title": "回答题",
+        "request": false,
+        "placeholder": "请输入",
+        "userInput": ""
+    },
+    "ec2fea91-0219-47aa-bd65-45617e769d71": {
+        "uuid": "ec2fea91-0219-47aa-bd65-45617e769d71",
+        "componentType": "rate",
+        "label": "评分",
+        "title": "请进行评分",
+        "request": false,
+        "scoring": 5,
+        "allowHalf": false,
+        "userInput": null
+    },
+    "764e6640-76cf-4c38-8903-142a1c2d27d7": {
+        "uuid": "764e6640-76cf-4c38-8903-142a1c2d27d7",
+        "componentType": "number",
+        "label": "数字",
+        "title": "数字",
+        "request": false,
+        "placeholder": "请输入",
+        "unit": "",
+        "userInput": null
+    },
+    "f71d930a-6f4f-46e0-bd67-ab4d72eb4ce8": {
+        "uuid": "f71d930a-6f4f-46e0-bd67-ab4d72eb4ce8",
+        "componentType": "helpText",
+        "label": "说明文字",
+        "content": "说明文字",
+        "link": ""
+    },
+    "ca3cc83a-d309-4de3-a6de-e9fc0c0e038e": {
+        "uuid": "ca3cc83a-d309-4de3-a6de-e9fc0c0e038e",
+        "componentType": "date",
+        "label": "日期",
+        "title": "日期",
+        "dateType": "date",
+        "format": "YYYY-MM-DD",
+        "placeholder": "选择日期",
+        "userInput": null
+    }
+}
